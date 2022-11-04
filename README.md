@@ -100,4 +100,4 @@ falgoritmo
  
 
 
-b) Modificar el algoritmo para conocer el gasto realizado en productos de la sección de perfumería. Sabiendo que este tipo de productos tienen códigos comprendidos entre el 300 y el 450, efectuar las modificaciones necesarias para acumular, en la nueva variable total_perfumeria, el gasto efectuado en esta sección. Queremos saber también cual es la media en importe de los productos de perfumería comprados.
+a) Codificar, compilar y probar en lenguaje C el algoritmo dado.
